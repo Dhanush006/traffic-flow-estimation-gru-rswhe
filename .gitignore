@@ -1,0 +1,33 @@
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Video output
+*.avi
+*.mp4
+
+# Model Weights & Logs
+models/
+*.h5
+*.ckpt
+
+# MATLAB generated files
+*.asv
+*.fig
+*.mat
+*.mex*
+*.log
