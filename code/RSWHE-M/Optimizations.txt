@@ -1,0 +1,3 @@
+Can try to remove the beta variable outside, prevent looping
+Replace traditional method with hist_eq, use inbuilt functions
+Can prevent the whole recursion from occuring twice.
